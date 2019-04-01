@@ -28,7 +28,7 @@
 
 ## Support
 
-  If you have any questions, comments or concerns please contact me at <a href="mailto:jtluceydevelopment@gmail.com">Email Example.com</a> and I will respond as quickly as I can to help resolve any issues that may arise.
+  If you have any questions, comments or concerns please contact me at <jtluceydevelopment@gmail.com> and I will respond as quickly as I can to help resolve any issues that may arise.
 
 
 
