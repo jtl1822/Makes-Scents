@@ -1,15 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to The Makes Scents: Wickless Wax Inventory Page
 
-You can use the [editor on GitHub](https://github.com/jtl1822/Makes-Scents/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Let me take a moment to thank you for using Makes Scents, I have put a good deal of work into making this one of the simplest inventory app for this purpose. Makes Scents was developed with the help of my wonderful wife to bring Makes Scents to everyone. We beleive the simplisity of Makes Scents will help you know exactly what products you have on hand.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Key Features:
 
-### Markdown
+- Image, Name and Count all visable right away in every cell.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- BarCode Scanner for fast and easy Input and edit of each item.
 
-```markdown
-Syntax highlighted code block
+- Quick Adjust buttons for adjusting inventory counts simply by pressin an + or - button.
+
 
 # Header 1
 ## Header 2
